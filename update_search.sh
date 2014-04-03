@@ -1,7 +1,7 @@
 #!/bin/bash
 #Purpose: to update your sercie
 #Date:2014-04-03
-#Author: chaniel.qu
+#Author: Chaniel.Qu
 
 # data_dir_name is the data dir name that you want to update
 data_dir_name=data
