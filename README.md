@@ -1,12 +1,12 @@
 update_service
 ==============
 
-this script is use for to update your service
+the first script is use for to update your service
 
 
 for example:
   you hava a search service , the dir stacture is:
-        search/
+    /data/search/
             bin/search
             data/*.data
             log/*.log
@@ -35,5 +35,20 @@ for example:
         stop=./stop
                 
   
-end of readme  
+
+
+
+the second script is use for to update your service(bin file)
+
+for example:
+  you hava a xserver service , the dir stacture is:
+    /data/server/xserver
+            bin/xsd
+            log/*.log
+
+
+
+
+
+
               
